@@ -1,0 +1,2 @@
+this is a sample file
+it will be modified by the program
